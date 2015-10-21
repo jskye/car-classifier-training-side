@@ -1,1 +1,9 @@
 tmp
+positive_images_reversed
+positive_images_original
+positive_images_reversed
+negative_usedinfrontbacktrain_resized
+negative_images_originalandflipped
+testset.ppm
+*.DS_Store
+
